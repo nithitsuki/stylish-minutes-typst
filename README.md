@@ -7,7 +7,7 @@ A compact, themeable Typst package for nicely styled meeting minutes. (there's a
     <img src="preview/bw.svg" alt="bw" style="height:480px;">
 </p>
 
-**Installation (global)**
+# Installation
 
 Make sure to have [git installed](https://github.com/git-guides/install-git)
 
@@ -26,7 +26,7 @@ git clone "https://github.com/nithitsuki/stylish-minutes-typst.git" ~/Library/Ap
 git clone "https://github.com/nithitsuki/stylish-minutes-typst.git" "$env:APPDATA/typst/packages/local/stylish-minutes/0.0.1"
 ```
 
-**Quick Start**
+# Quick Start
 
 ```bash
 typst init "@local/stylish-minutes:0.0.1"
