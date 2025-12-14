@@ -3,8 +3,8 @@
 A compact, themeable Typst package for nicely styled meeting minutes. (there's a dark theme too!)
 
 <p style="display:flex; gap:12px; align-items:center;">
-    <img src="preview/orange.svg" alt="orange" style="height:640px;">
-    <img src="preview/bw.svg" alt="bw" style="height:640px;">
+    <img src="preview/orange.svg" alt="orange" style="height:480px;">
+    <img src="preview/bw.svg" alt="bw" style="height:480px;">
 </p>
 
 **Installation (global)**
