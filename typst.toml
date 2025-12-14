@@ -1,0 +1,17 @@
+[package]
+name = "stylish-minutes"
+version = "0.0.1"
+compiler = "0.12.0"
+entrypoint = "stylish-minutes.typ"
+authors = ["Nithilan Rameshkumar <https://github.com/nithitsuki>"]
+license = "MIT"
+description = "Create beautiful minutes of the meeting in typst"
+repository = "https://github.com/nithitsuki/stylish-minutes-typst.git"
+keywords = ["minutes","meeting","productivity"]
+categories = ["presentation", "layout", "components"]
+exclude = ["svg"]
+
+[template]
+path = "template"
+entrypoint = "main.typ"
+thumbnail = "orange.svg"
